@@ -1,1 +1,0 @@
-# naverseries_coco_copypage
